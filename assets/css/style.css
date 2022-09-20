@@ -1,0 +1,9 @@
+header {
+    background-color: rgb(169, 248, 222);
+    color: black
+}
+
+nav {
+    display:flex;
+    justify-content:end;
+}
