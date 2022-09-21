@@ -20,14 +20,22 @@ h1 {
 }
 
 
-li {
+.Nav {
     list-style: none;
     display:flex;
     display:inline-flex;
     justify-content:flex-end;
     font-size:2rem;
+    display:
+}
 
+#about-me {
+    display:flex;
+    
+}
 
+#work {
+    display:flex;
 }
 .container {
     position: relative;
