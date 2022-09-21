@@ -7,18 +7,28 @@ header {
     background-color: rgb(169, 248, 222);
     color: black;
     display:flex;
+    justify-content:flex-end;
+    align-items:center;
 }
 
-nav {
-    display:flex;
-    justify-content:end;
+#toad {
+    margin-right: auto;
 }
+
+h1 {
+    margin-right:auto;
+}
+
 
 li {
+    list-style: none;
     display:flex;
-    a;
-}
+    display:inline-flex;
+    justify-content:flex-end;
+    font-size:2rem;
 
+
+}
 .container {
     position: relative;
     text-align: center;
