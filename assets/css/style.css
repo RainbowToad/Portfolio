@@ -1,9 +1,20 @@
+/*body {
+    background-color: black;
+    color:  rgb(169, 248, 222)
+}*/
+
 header {
     background-color: rgb(169, 248, 222);
-    color: black
+    color: black;
+    display:flex;
 }
 
 nav {
     display:flex;
     justify-content:end;
+}
+
+li {
+    display:flex;
+    a;
 }
