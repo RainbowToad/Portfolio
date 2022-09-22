@@ -26,21 +26,29 @@ h1 {
     display:inline-flex;
     justify-content:flex-end;
     font-size:2rem;
-    display:
+}
+
+li {
+    margin-left:2rem;
+    margin-right:1rem;
 }
 
 #about-me {
     display:flex;
+    flex-wrap:wrap;
+
     
 }
 
 #work {
     display:flex;
+    flex-wrap:wrap;
 }
 .container {
     position: relative;
     text-align: center;
     color: rgb(65, 156, 60);
+    width:280px;
 }
 
 .title {
