@@ -7,11 +7,9 @@ header {
     flex-wrap:wrap;
     justify-content:flex-end;
     align-items:center;
+    justify-content:space-between
 }
 
-#toad {
-    margin-right: auto;
-}
 
 h1 {
     margin-right:auto;
