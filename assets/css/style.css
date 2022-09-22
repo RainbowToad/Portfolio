@@ -1,12 +1,10 @@
-/*body {
-    background-color: black;
-    color:  rgb(169, 248, 222)
-}*/
+
 
 header {
     background-color: rgb(169, 248, 222);
     color: black;
     display:flex;
+    flex-wrap:wrap;
     justify-content:flex-end;
     align-items:center;
 }
@@ -17,6 +15,11 @@ header {
 
 h1 {
     margin-right:auto;
+    font-size:4rem;
+}
+
+h2 {
+    font-size:2rem;
 }
 
 
@@ -36,19 +39,27 @@ li {
 #about-me {
     display:flex;
     flex-wrap:wrap;
+}
 
-    
+p {
+    margin-left:2rem;
 }
 
 #work {
     display:flex;
     flex-wrap:wrap;
 }
+
+aside {
+    background-color: white;
+    color:black;
+    margin-right:2rem;
+    width:20%;
+}
 .container {
-    position: relative;
+    position: center;
     text-align: center;
-    color: rgb(65, 156, 60);
-    width:280px;
+    flex:1;
 }
 
 .title {
@@ -57,4 +68,11 @@ li {
     left: 10%;
     font-size:xx-large;
     background-color: black;    
+}
+
+@media screen and (max-width:768px) {
+    #work, .Nav, header, #about-me {
+        flex-direction:column
+    }
+
 }
