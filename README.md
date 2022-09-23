@@ -10,13 +10,7 @@ This project was created for me to showcase my work as a budding developer. I ha
 
 Active URL:
 
-Screenshot:
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+Screenshot:![Screenshot](https://user-images.githubusercontent.com/111533301/192041068-d14a45d4-378b-4519-aa07-2ec0e58f8c9a.png)
 
 
 ## License
