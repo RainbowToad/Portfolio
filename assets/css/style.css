@@ -1,6 +1,7 @@
 header {
     background-color: rgb(169, 248, 222);
     color: black;
+    font-family: 'Lucida Sans', Arial, monospace;
     display:flex;
     flex-wrap:wrap;
     justify-content:flex-end;
@@ -11,10 +12,13 @@ header {
 h1 {
     margin-right:auto;
     font-size:4rem;
+    font-family: 'Lucida Sans', Arial, monospace;
 }
 
 h2 {
     font-size:2rem;
+    font-family: 'Lucida Sans', Arial, monospace;
+
 }
 
 
@@ -24,6 +28,8 @@ h2 {
     display:inline-flex;
     justify-content:flex-end;
     font-size:2rem;
+    font-family: 'Lucida Sans', Arial, monospace;
+
 }
 
 li {
@@ -38,6 +44,8 @@ li {
 
 p {
     margin-left:2rem;
+    font-family: 'Lucida Sans', Arial, monospace;
+
 }
 
 #work {
