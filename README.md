@@ -10,7 +10,8 @@ This project was created for me to showcase my work as a budding developer. I ha
 
 Active URL:
 
-Screenshot:![Screenshot](https://user-images.githubusercontent.com/111533301/192041068-d14a45d4-378b-4519-aa07-2ec0e58f8c9a.png)
+Screenshot:![Screenshot](https://user-images.githubusercontent.com/111533301/192043666-974ea135-a249-462a-abae-ddc833442bda.png)
+
 
 
 ## License
