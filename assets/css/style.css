@@ -70,12 +70,14 @@ aside {
 
 #contact-me {
     display:flex;
+    flex-wrap:wrap;
     justify-content:space-between;
     align-items:center;
 }
 
 #contact-info {
     display:flex;
+    flex-wrap:wrap;
     justify-content:flex-end;
     font-size:xx-large;
 }
@@ -86,7 +88,7 @@ aside {
 }
 
 @media screen and (max-width:768px) {
-    #work, .Nav, header, #about-me {
+    #work, .Nav, header, #about-me, #contact-me {
         flex-direction:column
     }
 
