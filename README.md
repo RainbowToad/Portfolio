@@ -8,7 +8,7 @@ This project was created for me to showcase my work as a budding developer. I ha
 ## Usage
 
 
-Active URL:
+Active URL: https://rainbowtoad.github.io/Portfolio/
 
 Screenshot:![Screenshot](https://user-images.githubusercontent.com/111533301/192043666-974ea135-a249-462a-abae-ddc833442bda.png)
 
